@@ -14,3 +14,7 @@ If it is, it will run a Powershell script to notify you that the battery is low 
  <img src="https://github.com/SuperX-dev/Windows_SimpleLowBatteryToastWarning/blob/master/readme_resources/notification.jpg?raw=true">
 </div>
 
+<hr>
+Repo made by SuperX-dev on GitHub
+
+
