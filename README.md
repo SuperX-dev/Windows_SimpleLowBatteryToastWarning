@@ -10,5 +10,7 @@
 
 If it is, it will run a Powershell script to notify you that the battery is low and how much is remaining.
 
-![](https://github.com/SuperX-dev/Windows_SimpleLowBatteryToastWarning/blob/master/readme_resources/BatteryNotification.jpg?raw=true)
+<div>
+<img src="https://github.com/SuperX-dev/Windows_SimpleLowBatteryToastWarning/blob/master/readme_resources/BatteryNotification.jpg?raw=true">
+</div>
 
